@@ -5,22 +5,22 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-⬛ GitHub: https://github.com/M2ndess
+⬛ GitHub: https://github.com/M2ndess<br>
 
-👨‍💻 Junior Software Engineer
+👨‍💻 Junior Software Engineer<br>
 
-🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-Hello, I'm Leonardo, a recent graduate passionate about programming with a preference for backend development but open to all opportunities. I thrive in collaborative environments and always strive for excellence. Beyond programming, I enjoy sports, photography, and 3D design, bringing a unique perspective to my work.
+🚀 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲<br>
+Hello, I'm Leonardo, a recent graduate passionate about programming with a preference for backend development but open to all opportunities. I thrive in collaborative environments and always strive for excellence. Beyond programming, I enjoy sports, photography, and 3D design, bringing a unique perspective to my work.<br>
 
-⚙️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀
-▪️ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: PHP, Grails, Java, C#, C, Python, Lua, GO, RabbitMQ, Kotlin
-▪️ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Angular, JavaScript, TypeScript, HTML, CSS
-▪️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: SQL Server, MariaDB, MySQL, Oracle
-▪️ 𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Unity, Phaser
-▪️ 𝗔𝗴𝗶𝗹𝗲: Scrum
+⚙️ 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀<br>
+▪️ 𝗕𝗮𝗰𝗸𝗲𝗻𝗱: PHP, Grails, Java, C#, C, Python, Lua, GO, RabbitMQ, Kotlin<br>
+▪️ 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱: Angular, JavaScript, TypeScript, HTML, CSS<br>
+▪️ 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: SQL Server, MariaDB, MySQL, Oracle<br>
+▪️ 𝗚𝗮𝗺𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Unity, Phaser<br>
+▪️ 𝗔𝗴𝗶𝗹𝗲: Scrum<br>
 
-💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀
-I am looking for challenges and opportunities that keep me in continuous learning.
+💼 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗢𝗽𝗽𝗼𝗿𝘁𝘂𝗻𝗶𝘁𝗶𝗲𝘀<br>
+I am looking for challenges and opportunities that keep me in continuous learning.<br>
 
 <a href="https://www.linkedin.com/in/leonardo-mendes-953257280/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  alt=""/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:leomalheiro4@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"  alt=""/></a>
